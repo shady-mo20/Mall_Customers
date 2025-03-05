@@ -62,7 +62,7 @@ This project uses a dataset of mall customers. The dataset contains the followin
 - **Spending Score (1-100):** Spending score assigned to the customer (higher score indicates higher spending behavior).
 
 The dataset can be found at the following URL:
-[https://github.com/shady-mo20/Mall_Customers](https://github.com/shady-mo20/Mall_Customers)
+[https://github.com/shady-mo20/Mall_Customers](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation)
 
 The dataset is stored in `Mall_Customers.csv` and should be placed in the same directory as the project scripts.
 
