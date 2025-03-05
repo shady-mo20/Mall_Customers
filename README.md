@@ -1,6 +1,3 @@
-أعتذر على الخطأ الذي وقع! إليك الملف كامل بصيغة **Markdown**:
-
-```markdown
 # Customer Segmentation - EDA and Clustering
 
 ## Overview
