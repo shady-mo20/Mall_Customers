@@ -31,8 +31,8 @@ To run this project locally, you'll need to have Python installed. You can set u
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
+git clone https://github.com/shady-mo20/Mall_Customers.git
+cd Mall_Customers
 ```
 
 2. Create a virtual environment:
