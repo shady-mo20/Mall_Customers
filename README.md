@@ -1,3 +1,4 @@
+
 # Customer Segmentation - EDA and Clustering
 
 ## Overview
@@ -59,6 +60,9 @@ This project uses a dataset of mall customers. The dataset contains the followin
 - **Age:** Age of the customer.
 - **Annual Income (k$):** Annual income of the customer in thousands of dollars.
 - **Spending Score (1-100):** Spending score assigned to the customer (higher score indicates higher spending behavior).
+
+The dataset can be found at the following URL:
+[https://github.com/shady-mo20/Mall_Customers](https://github.com/shady-mo20/Mall_Customers)
 
 The dataset is stored in `Mall_Customers.csv` and should be placed in the same directory as the project scripts.
 
@@ -155,12 +159,3 @@ Please make sure your code follows the [PEP 8](https://pep8.org/) style guide an
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Acknowledgements
-
-- **Pandas** and **NumPy** for data manipulation and analysis.
-- **Matplotlib** and **Seaborn** for visualization.
-- **Scikit-learn** for clustering and data preprocessing.
-```
-
-الآن الملف مكتوب بشكل كامل باستخدام **Markdown**، يمكنك نسخه مباشرة إلى ملف `README.md` في مشروعك على GitHub!
